@@ -1,0 +1,10 @@
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; }
+        header, footer { background: #333; color: white; text-align: center; padding: 1rem; }
+        section { padding: 40px; border-bottom: 1px solid #ccc; min-height: 200px; }
+        .container { max-width: 800px; margin: auto; }
+        form { display: flex; flex-direction: column; gap: 10px; }
+        input, button, textarea { padding: 10px; border-radius: 5px; border: 1px solid #ddd; }
+        button { background: #28a745; color: white; cursor: pointer; border: none; }
+        button:hover { background: #218838; }
+        .error { color: red; font-size: 0.9rem; display: none; }
+        
